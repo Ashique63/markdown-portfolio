@@ -1,12 +1,12 @@
 Replace this with a list of your favorite things.
 What you see	What you type
 
-heart	:heart:
+heart	: * heart:
 
-+1	:+1:
++1	: * +1:
 
-smile	:smile:
+smile	: * smile:
 
-sparkles	:sparkles:
+sparkles	: * sparkles:
 
-tada	:tada:
+tada	: * tada:
